@@ -6,4 +6,4 @@ Simulation of cache performance on different replacement policies
 2. Create New Project (C++ Console)
 3. Put main.cpp under Source Files
 4. Build/Run
-5. [Extra] View generated piped output on Output.txt
+5. [Extra] View generated piped output on output.txt
